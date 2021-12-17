@@ -1,5 +1,7 @@
 # capacitor-app-rate
 
+IN DEVELOPMENT. DO NOT USE!!!!!
+
 App rate dialog for capacitor apps
 
 ## Install
